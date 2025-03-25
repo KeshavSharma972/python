@@ -1,1 +1,1 @@
-This is an project for Data Science course
+This is an project repo for Data Science course
